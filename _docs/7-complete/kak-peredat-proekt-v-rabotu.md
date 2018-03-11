@@ -17,7 +17,7 @@ order:
 
 ## 3. Заполняешь задание на запуск
 
-* Открыть шаблон брифа [Задание на запуск](https://docs.google.com/document/d/1xvmnRiX_67bK-t79YIQTXhy7BBT71zNXF_cfPXYLjh4/edit?usp=sharing)
+* Открыть шаблон задания [Задание на запуск](https://docs.google.com/document/d/1xvmnRiX_67bK-t79YIQTXhy7BBT71zNXF_cfPXYLjh4/edit?usp=sharing)
 * Создать копию File → Make a copy
 * Файл с копией назвать «Бриф Василий Пупкин»
 * Положить копию брифа в созданную папку Василий Пупкин
